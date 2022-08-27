@@ -17,11 +17,11 @@ dependencies:
 
 
 
-  cupertino_icons: ^1.0.2
-  flutter_slidable: ^1.2.0
-  http: ^0.13.4
-  logger: ^1.1.0
-  get: ^4.6.1
+  cupertino_icons:
+  flutter_slidable:
+  http:
+  logger:
+  get:
 
 dev_dependencies:
   flutter_test:
